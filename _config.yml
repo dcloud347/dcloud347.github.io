@@ -6,10 +6,10 @@
 name: Yue Pan
 
 # Short bio or description (displayed in the header)
-description: Software Engineer & Researcher
+description: Student (UCL Meng Computer Science) Software Engineer & Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/dcloud347/dcloud347.github.io/master/images/avatar.jpg
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jack.pan.23@ucl.ac.uk
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/dcloud347
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/yue-pan-b35aa1322/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://dcloud347.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
