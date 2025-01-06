@@ -6,7 +6,7 @@
 name: Yue Pan
 
 # Short bio or description (displayed in the header)
-description: Student (UCL Meng Computer Science) Software Engineer & Researcher
+description: Student (UCL Meng Computer Science) & Software Engineer & Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/dcloud347/dcloud347.github.io/master/images/avatar.jpg
@@ -21,9 +21,9 @@ footer-links:
   email: jack.pan.23@ucl.ac.uk
   facebook:
   flickr:
-  github: https://github.com/dcloud347
+  github: dcloud347
   instagram:
-  linkedin: https://www.linkedin.com/in/yue-pan-b35aa1322/
+  linkedin: yue-pan-b35aa1322
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
