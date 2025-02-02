@@ -47,6 +47,24 @@ Student (UCL Meng Computer Science) Software Engineer & Researcher(NLP)
 - The project will use multiple AI models from IBM Granite that need to be embedded and run locally on the device to ensure offline use, requiring the models to be lightweight. The project will explore Generative AI (GenAI) for image generation, SAM for object detection, and Yolo for hand tracking to enable dynamic interaction around the table.
 - Each gaming experience will be different, with players taking turns completing different challenges by rolling virtual dice. The game supports image recognition, recognising objects such as small toys and mannequins, which are engaged as avatars of the player.
 
+## AMICO - AI Agent Framework for DePin Devices
+- [AMICO](https://github.com/AIMOverse/amico) is an AI Agent Framework designed for DePin devices. It provides a modular, extensible architecture that enables intelligent agents to perceive their environment, process events, and execute actions. The framework is highly customizable, allowing users to configure input sources, event generation, action selection, and execution logic to fit specific use cases.
+- **Modules**:
+    - **amico-core**: Defines the underlying workflow, handling events, selecting actions, and executing them.
+    - **amico-firmware**: Provides hardware control capabilities.
+    - **amico-macros**: Implements procedural macros for enhancing development efficiency.
+    - **amico-plugins**: Supports plugin-based extensions to enhance functionality.
+- **Architecture**:
+    - **Inputs**: Input sources such as cameras, sensors, and microphones provide raw data.
+    - **Event Generation**: The EventGenerator processes input data to create relevant events, which may have expiration times.
+    - **Event Pool**: Stores generated events until they expire or are processed.
+    - **Action Selection**: The ActionSelector reads unexpired events from the event pool and determines the most suitable action.
+    - **Execution**: The selected action is executed by the agent.
+- **Key Features**:
+    - High flexibility: Users can define and modify Inputs, EventGenerator, Action, and ActionSelector to fit custom requirements.
+    - Adaptive decision-making: The framework supports a condition-action rules approach and can be extended with reinforcement learning techniques (e.g., Q-learning, DQN).
+    - Modular design: The plugin system allows users to extend functionalities seamlessly.
+
 # Contact me
 
 [jack.pan.23@ucl.ac.uk](mailto:jack.pan.23@ucl.ac.uk)
