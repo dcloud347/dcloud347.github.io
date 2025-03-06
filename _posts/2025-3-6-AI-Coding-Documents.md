@@ -22,7 +22,7 @@ The convergence of AI and software engineering holds immense promise for the fut
 
 ## Join Me on This Journey
 
-I invite you to follow my progress and explore the emerging insights from this exciting field. For more detailed updates and to access research documents, please check out my [Research Documents](http://localhost:3000/AICodingDocuments/).
+I invite you to follow my progress and explore the emerging insights from this exciting field. For more detailed updates and to access research documents, please check out my [Research Documents](https://dcloud347.github.io/AICodingDocuments/).
 
 Stay tuned for more updates as I continue to explore the fascinating intersection of AI and software engineering!
 
