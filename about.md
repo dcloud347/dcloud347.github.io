@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Student (UCL Meng Computer Science) Software Engineer & Researcher(NLP)
+Student (UCL Meng Computer Science) Software Engineer & Researcher (NLP)
 
 # Education
 
@@ -23,47 +23,40 @@ Student (UCL Meng Computer Science) Software Engineer & Researcher(NLP)
 - Database: PostgreSQL, MySQL
 
 ## HONOR
-- AMC12A 2021the top 2.5%
+- AMC12A 2021 the top 2.5%
 - Euclid Contest Certificate of Distinction
-- BEIJING TECHNOLOGY  INNOVATION PRIZE
+- BEIJING TECHNOLOGY INNOVATION PRIZE
 
 # Experience
 
 ## SOFTWARE ENGINEER INTERN | CHENGDU LVBEICHUXING XINNENGYUAN LTD.
 - Developed the official public website for the company from scratch with Django and React.
 - Legally “Crawl” the information and use APIs for the management of database.
-- Maintaining the website, (responding the needs)
-- The company uses the system to improve their working efficiency such as handling excel table tremendously. The system also helps them to did plenty of calculations such as overdue amount of money and the overdue time .......
+- Maintaining the website (responding to needs).
+- The system improved their work efficiency by handling extensive Excel tables and performing various calculations such as overdue amounts and overdue time.
 
 ## SOFTWARE ENGINEER AND CO-FOUNDER | RONGZHIRUANKE LTD.
-- Developed an AI powered software backend for 1000+ users using nacos+springboot+Higress.
-- Traffic diversion through nacos+hinge+springboot architecture
-- Trained our own sound model for talking with AI.
+- Developed an AI-powered software backend for 1000+ users using Nacos, Spring Boot, and Higress.
+- Implemented traffic diversion using a Nacos+Hinge+Spring Boot architecture.
+- Trained a custom sound model for AI-driven conversations.
 
 # Projects
 
 ## IBM – MIXED REALITY BOARD AND TOY GAMES WITH GRANITE 3 SLMS
-- The project is a collaboration between IBM, UCL and MotionInput Games to develop a Mixed Reality desktop gaming engine aimed at education and home entertainment scenarios. The application will need to run on Unity and have cross-platform support for use on mobile phones, tablets and laptops.
-- The project will use multiple AI models from IBM Granite that need to be embedded and run locally on the device to ensure offline use, requiring the models to be lightweight. The project will explore Generative AI (GenAI) for image generation, SAM for object detection, and Yolo for hand tracking to enable dynamic interaction around the table.
-- Each gaming experience will be different, with players taking turns completing different challenges by rolling virtual dice. The game supports image recognition, recognising objects such as small toys and mannequins, which are engaged as avatars of the player.
+- A collaboration between IBM, UCL, and MotionInput Games to develop a Mixed Reality desktop gaming engine for educational and home entertainment scenarios.
+- The application is developed in Unity with cross-platform support for mobile phones, tablets, and laptops.
+- Integrated multiple AI models from IBM Granite for offline use, including Generative AI for image generation, SAM for object detection, and Yolo for hand tracking.
+- Features dynamic gameplay where players complete different challenges by rolling virtual dice, with image recognition capabilities for objects like small toys and mannequins.
 
 ## AMICO - AI Agent Framework for DePin Devices
-- [AMICO](https://github.com/AIMOverse/amico) is an AI Agent Framework designed for DePin devices. It provides a modular, extensible architecture that enables intelligent agents to perceive their environment, process events, and execute actions. The framework is highly customizable, allowing users to configure input sources, event generation, action selection, and execution logic to fit specific use cases.
-- **Modules**:
-    - **amico-core**: Defines the underlying workflow, handling events, selecting actions, and executing them.
-    - **amico-firmware**: Provides hardware control capabilities.
-    - **amico-macros**: Implements procedural macros for enhancing development efficiency.
-    - **amico-plugins**: Supports plugin-based extensions to enhance functionality.
-- **Architecture**:
-    - **Inputs**: Input sources such as cameras, sensors, and microphones provide raw data.
-    - **Event Generation**: The EventGenerator processes input data to create relevant events, which may have expiration times.
-    - **Event Pool**: Stores generated events until they expire or are processed.
-    - **Action Selection**: The ActionSelector reads unexpired events from the event pool and determines the most suitable action.
-    - **Execution**: The selected action is executed by the agent.
-- **Key Features**:
-    - High flexibility: Users can define and modify Inputs, EventGenerator, Action, and ActionSelector to fit custom requirements.
-    - Adaptive decision-making: The framework supports a condition-action rules approach and can be extended with reinforcement learning techniques (e.g., Q-learning, DQN).
-    - Modular design: The plugin system allows users to extend functionalities seamlessly.
+- [AMICO](https://github.com/AIMOverse/amico) is an AI Agent Framework for DePin devices, offering a modular and extensible architecture.
+
+# Research
+
+## UCL Centre for Research on Evolution, Search and Testing (CREST)
+- Currently conducting research in AI software engineering.
+- Focusing on advancing innovative techniques and solutions within the field.
+- For detailed research outcomes and projects, please visit my [Research Documents](https://dcloud347.github.io/AICodingDocuments/).
 
 # Contact me
 
