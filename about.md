@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Student (UCL Meng Computer Science) Software Engineer & Researcher (AI for Code) | UCL Centre for Research on Evolution, Search and Testing (CREST)
+Student (UCL Meng Computer Science) Software Engineer & Researcher (AI for Code)
 
 # Education
 
