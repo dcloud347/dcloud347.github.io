@@ -22,6 +22,8 @@ My academic journey has also been enriched by collaborations with [**Prof. Serge
 
 I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 
+Beyond academia, I have been actively involved in technology entrepreneurship. I am a co-founder of [**EuniAI**](https://euni.ai/), [**Aimoverse**](https://aimo.network/), and Hangzhou RongzhiruanKe Ltd., where I have led the development of AI-driven products and enterprise systems.
+
 For more details about my background, please see my [**CV**](../assets/pdf/Yue_Pan_Resume.pdf).
 
 # 🔥 News
