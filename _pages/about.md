@@ -20,8 +20,6 @@ redirect_from:
 I am a third-year undergraduate student in Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am a member of the SOLAR Group under the supervision of [**Prof. He Ye**](https://heye.me/) My research interests lie in automated software engineering and agentic systems, with a particular focus on long-horizon issue resolution, program understanding, and LLM-based code agents.
 My academic journey has also been enriched by collaborations with [**Prof. Sergey Mechtaev**](https://mechtaev.com/) at Peking University.
 
-I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
-
 Beyond academia, I have been actively involved in technology entrepreneurship. I am a co-founder of [**EuniAI**](https://euni.ai/), [**Aimoverse**](https://aimo.network/), and Hangzhou RongzhiruanKe Ltd., where I have led the development of AI-driven products and enterprise systems.
 
 For more details about my background, please see my [**CV**](../assets/pdf/Yue_Pan_Resume.pdf).
