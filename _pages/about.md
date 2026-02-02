@@ -25,7 +25,7 @@ I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building 
 For more details about my background, please see my [**CV**](../assets/pdf/Yue_Pan_Resume.pdf).
 
 # 🔥 News
-- **[2025-11]** Our work Prometheus achieves state-of-the-art performance with 74.4% and 33.8% resolution rates on **[SWE-bench Verified leaderboard](https://www.swebench.com/)** and **[SWE-Polybench Verified leaderboard](https://amazon-science.github.io/SWE-PolyBench/#verified)**, ranking Top-6 and Top-1🏆 among open-source agent systems, respectively🎉!
+- **[2025-11]** Our work Prometheus achieves state-of-the-art performance with 74.4% and 33.8% resolution rates on **[SWE-bench Verified leaderboard](https://www.swebench.com/)** and **[SWE-Polybench Verified leaderboard](https://amazon-science.github.io/SWE-PolyBench/#verified)**, ranking Top-6 and Top-1🏆 among open-source agent systems respectively🎉!
 
 # 📝 Publications 
 
