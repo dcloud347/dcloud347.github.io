@@ -49,8 +49,8 @@ Zimin Chen, **Yue Pan**, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, H
 - *2022.04* Euclid Contest Certificate of Distinction
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (now)*, University College London (UCL), MEng Computer Science.
+- *2019.09 - 2013.06* Beijing National Day School (BNDS), Beijing, China.
 
-# 💻 Internships
+# 💻 Work Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
