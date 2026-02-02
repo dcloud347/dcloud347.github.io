@@ -24,6 +24,8 @@ Beyond academia, I have been actively involved in technology entrepreneurship. I
 
 For more details about my background, please see my [**CV**](../assets/pdf/Yue_Pan_Resume.pdf).
 
+🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) in April, looking forward to meet you there!** 🤗🤗
+
 # 🔥 News
 - **[2025-11]** Our work Prometheus achieves state-of-the-art performance with 74.4% and 33.8% resolution rates on **[SWE-bench Verified leaderboard](https://www.swebench.com/)** and **[SWE-Polybench Verified leaderboard](https://amazon-science.github.io/SWE-PolyBench/#verified)**, ranking Top-6 and Top-1🏆 among open-source agent systems respectively🎉!
 
