@@ -29,7 +29,11 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <img src='../assets/images/Promethues.png' alt="sym" width="100%">
+    </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [Prometheus: Unified knowledge graphs for issue resolution in multilingual codebases](https://arxiv.org/pdf/2507.19942)
