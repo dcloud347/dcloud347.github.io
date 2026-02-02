@@ -52,5 +52,20 @@ Zimin Chen, **Yue Pan**, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, H
 - *2023.09 - 2027.06 (now)*, University College London (UCL), MEng Computer Science.
 - *2019.09 - 2013.06* Beijing National Day School (BNDS), Beijing, China.
 
-# 💻 Work Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 💻 Work Experience
+
+- **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
+  Leading the development of **Prometheus**, an AI-powered code agent for long-horizon issue resolution using knowledge graphs and agentic memory, supervised by [**Prof. He Ye**](https://heye.me/).
+
+- **2025.06 – 2025.09** · **Research Assistant**, Peking University, Beijing  
+  Conducted research on context compression and efficient summarization for large-scale code agent systems,supervised by [**Prof. Sergey Mechtaev**](https://mechtaev.com/) .
+
+- **2024.11 – 2025.07** · **Researcher & CTO**, Aimoverse  
+  Co-developed [*Amico*](https://amico.dev/), a modular general AI agent framework built with Rust and WebAssembly for persistent autonomy.
+
+- **2024.01 – 2024.09** · **CTO & Co-founder**, Hangzhou RongzhiruanKe Ltd., China  
+  Led the development of embedded AI agent and enterprise systems serving over 10,000 users.
+
+- **2023.06 – 2023.09** · **Software Engineer Intern**, Chengdu Lvbeichuxing Xinnengyuan Ltd., China  
+  Built an ERP system from scratch using Django and React for internal business operations.
+
