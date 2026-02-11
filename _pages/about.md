@@ -32,18 +32,35 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-    <div>
-        <img src='../assets/images/Promethues.png' alt="sym" width="100%">
+  <div>
+    <div class="badge">Preprint</div>
+      <img src='../assets/images/Promethues.png' alt="sym" width="100%">
     </div>
-</div>
-<div class='paper-box-text' markdown="1">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Prometheus: Unified knowledge graphs for issue resolution in multilingual codebases](https://arxiv.org/pdf/2507.19942)
 
 **Yue Pan**, Zimin Chen, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye
 
 \[ [Code](https://github.com/EuniAI/Prometheus) \] \[ [arXiv](https://www.arxiv.org/abs/2507.19942) \]
+  </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'>
+  <div>
+    <div class="badge">Preprint</div>
+      <img src='../assets/images/Contextbench.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**ContextBench: A Benchmark for Context Retrieval in Coding Agents**.<br>
+Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, **Yue Pan**, Earl T. Barr, Federica Sarro, Zhaoyang Chu†, He Ye†.<br>
+Preprint.<br>
+\[ [Homepage](https://contextbench.github.io/) \] \[ [Paper](https://arxiv.org/abs/2602.05892) \] \[ [Code](https://github.com/EuniAI/ContextBench) \] \[ [Dataset](https://huggingface.co/datasets/Contextbench/ContextBench) \]
+
+  </div>
 </div>
 
 # 🎖 Honors and Awards
