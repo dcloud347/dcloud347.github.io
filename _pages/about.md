@@ -41,7 +41,7 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 
 [Prometheus: Unified knowledge graphs for issue resolution in multilingual codebases](https://arxiv.org/pdf/2507.19942)
 
-**Yue Pan**, Zimin Chen, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye
+**Yue Pan**\*, Zimin Chen\*, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye†.
 
 \[ [Code](https://github.com/EuniAI/Prometheus) \] \[ [Paper](https://www.arxiv.org/abs/2507.19942) \]
   </div>
@@ -57,8 +57,8 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 
 [ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892)
 
-Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, **Yue Pan**, Earl T. Barr, Federica Sarro, Zhaoyang Chu†, He Ye†.<br>
-Preprint.<br>
+Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, **Yue Pan**, Earl T. Barr, Federica Sarro, Zhaoyang Chu†, He Ye†.
+
 \[ [Homepage](https://contextbench.github.io/) \] \[ [Paper](https://arxiv.org/abs/2602.05892) \] \[ [Code](https://github.com/EuniAI/ContextBench) \] \[ [Dataset](https://huggingface.co/datasets/Contextbench/ContextBench) \]
 
   </div>
