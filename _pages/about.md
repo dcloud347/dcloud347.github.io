@@ -89,7 +89,7 @@ Preprint.<br>
 - **2023.06 – 2023.09** · **Software Engineer Intern**, Chengdu Lvbeichuxing Xinnengyuan Ltd., China  
   Built an ERP system from scratch using Django and React for internal business operations.
 
-# ☎️ Contact
+# 📞 Contact
 Please feel free to contact me if you are interested in my research or want to collaborate on some projects. I am also happy to share my experience in research and technology entrepreneurship!
 
 Email: **jack.pan.23@ucl.ac.uk**
