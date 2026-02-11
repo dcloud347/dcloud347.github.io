@@ -40,7 +40,7 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 
 [Prometheus: Unified knowledge graphs for issue resolution in multilingual codebases](https://arxiv.org/pdf/2507.19942)
 
-Zimin Chen, **Yue Pan**, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye
+**Yue Pan**, Zimin Chen, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye
 
 \[ [Code](https://github.com/EuniAI/Prometheus) \] \[ [arXiv](https://www.arxiv.org/abs/2507.19942) \]
 </div>
