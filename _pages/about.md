@@ -72,7 +72,7 @@ Preprint.<br>
 - *2023.09 - 2027.06 (now)*, University College London (UCL), MEng Computer Science.
 - *2019.09 - 2013.06* Beijing National Day School (BNDS), Beijing, China.
 
-## 💻 Work Experiences
+# 💻 Work Experiences
 
 - **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
   Leading the development of **Prometheus**, an AI-powered code agent for long-horizon issue resolution using knowledge graphs and agentic memory, supervised by [**Prof. He Ye**](https://heye.me/).
@@ -89,3 +89,7 @@ Preprint.<br>
 - **2023.06 – 2023.09** · **Software Engineer Intern**, Chengdu Lvbeichuxing Xinnengyuan Ltd., China  
   Built an ERP system from scratch using Django and React for internal business operations.
 
+# Contact
+Please feel free to contact me if you are interested in my research or want to collaborate on some projects. I am also happy to share my experience in research and technology entrepreneurship!
+
+Email: **jack.pan.23@ucl.ac.uk**
