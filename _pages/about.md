@@ -41,7 +41,7 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Prometheus: Unified knowledge graphs for issue resolution in multilingual codebases](https://arxiv.org/pdf/2507.19942)
+[Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving](https://arxiv.org/pdf/2507.19942)
 
 **Yue Pan**\*, Zimin Chen\*, Siyu Lu, Zhaoyang Chu, Xiang Li, Han Li, Yang Feng, Claire Le Goues, Federica Sarro, Martin Monperrus, He Ye†.
 
@@ -62,6 +62,23 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, **Yue Pan**, Earl T. Barr, Federica Sarro, Zhaoyang Chu†, He Ye†.
 
 \[ [Homepage](https://contextbench.github.io/) \] \[ [Paper](https://arxiv.org/abs/2602.05892) \] \[ [Code](https://github.com/EuniAI/ContextBench) \] \[ [Dataset](https://huggingface.co/datasets/Contextbench/ContextBench) \]
+
+  </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+  <div>
+    <div class="badge">Preprint</div>
+      <img src='../assets/images/Echo.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Echo: Graph-Enhanced Retrieval and Execution Feedback for Issue Reproduction Test Generation](https://arxiv.org/abs/2603.07326)
+
+Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He Ye†.
+
+\[ [Paper](https://arxiv.org/abs/2603.07326) \]
 
   </div>
 </div>
