@@ -78,7 +78,7 @@ Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, **Yue Pan**, Ear
 
 Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He Ye†.
 
-\[ [Paper](https://arxiv.org/abs/2603.07326) \]
+\[ [Code](https://github.com/EuniAI/Echo) \] \[ [Paper](https://arxiv.org/abs/2603.07326) \]
 
   </div>
 </div>
