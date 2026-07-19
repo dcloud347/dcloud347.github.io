@@ -91,13 +91,8 @@ Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He
 
 # 💻 Work Experiences
 
-- **2026.06 – Present** · **AI Infra Intern**, ByteDance (Data-Arch / TikTok Push AI Infra), Shanghai, China  
-  Building AI Infra and R&D efficiency tooling for the TikTok Push team, integrating LLM and agent capabilities into code maintenance, on-call handling, and automated development workflows.
-  - Designed and developed a self-evolving **Company Agent** framework for internal R&D tasks, connecting task planning, tool invocation, environment interaction, result evaluation, and experience accumulation, enabling the agent to continuously refine its execution strategy from historical task feedback.
-  - Built generic task abstractions, a Tool / Skill extension mechanism, and configurable execution pipelines, allowing a single framework to adapt at low cost to diverse engineering tasks such as code repair, dead-code cleanup, ticket analysis, and data processing.
-  - Led the development of the **Guardian On-call Agent**, which automatically understands on-call tickets and contextual information to perform problem localization and suggest resolutions, helping on-duty engineers handle issues more efficiently.
-  - Developed model integration, context management, task scheduling, runtime monitoring, and automated evaluation capabilities, improving the scalability, stability, and observability of the agent system in complex production environments.
-  - Proposed and implemented a **Skill + Model dual-evolution** mechanism: automatically distilling, evaluating, and iterating reusable Skills from historical task trajectories, while continuously optimizing model capability from task results and evaluation feedback, achieving co-evolution of the agent's knowledge and execution strategy.
+- **2026.06 – Present** · **AI Infra Intern**, ByteDance (TikTok Push AI Infra), Shanghai  
+  Building a self-evolving agent framework and the Guardian On-call Agent to bring LLM and agent capabilities into code maintenance, on-call handling, and automated R&D workflows.
 
 - **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
   Leading the development of **Prometheus**, an AI-powered code agent for long-horizon issue resolution using knowledge graphs and agentic memory, supervised by [**Prof. He Ye**](https://heye.me/).
