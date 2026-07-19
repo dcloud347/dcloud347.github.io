@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year undergraduate student in Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am a member of the [**SOLAR Group**](https://solar.cs.ucl.ac.uk/) under the supervision of [**Prof. He Ye**](https://heye.me/).
 Now I'm also working with [**Dr. Shilong Liu**](https://lsl.zone/) at [**Princeton AI Lab**](https://ai.princeton.edu/ai-lab) in a multimodal code agent project.
-My research interests lie in automated software engineering, agentic systems, continual learning and reinforcement learning. I am currently seeking a PhD position starting in 2027 fall.
+My research interests lie in automated software engineering, agentic systems, continual learning and reinforcement learning. I am currently seeking a PhD position starting in 2027 fall, and I am also open to full-time / new-graduate opportunities in the 2027 fall recruitment cycle.
 My academic journey has also been enriched by collaborations with [**Prof. Sergey Mechtaev**](https://mechtaev.com/) at [**Peking University**](https://english.pku.edu.cn/).
 
 Beyond academia, I have been actively involved in technology entrepreneurship. I am a co-founder of [**EuniAI**](https://euni.ai/), [**Aimoverse**](https://aimo.network/), and Hangzhou RongzhiruanKe Ltd., where I have led the development of AI-driven products and enterprise systems.
@@ -90,6 +90,14 @@ Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He
 - *2019.09 - 2013.06* Beijing National Day School (BNDS), Beijing, China.
 
 # 💻 Work Experiences
+
+- **2026.06 – Present** · **AI Infra Intern**, ByteDance (Data-Arch / TikTok Push AI Infra), Shanghai, China  
+  Building AI Infra and R&D efficiency tooling for the TikTok Push team, integrating LLM and agent capabilities into code maintenance, on-call handling, and automated development workflows.
+  - Designed and developed a self-evolving **Company Agent** framework for internal R&D tasks, connecting task planning, tool invocation, environment interaction, result evaluation, and experience accumulation, enabling the agent to continuously refine its execution strategy from historical task feedback.
+  - Built generic task abstractions, a Tool / Skill extension mechanism, and configurable execution pipelines, allowing a single framework to adapt at low cost to diverse engineering tasks such as code repair, dead-code cleanup, ticket analysis, and data processing.
+  - Led the development of the **Guardian On-call Agent**, which automatically understands on-call tickets and contextual information to perform problem localization and suggest resolutions, helping on-duty engineers handle issues more efficiently.
+  - Developed model integration, context management, task scheduling, runtime monitoring, and automated evaluation capabilities, improving the scalability, stability, and observability of the agent system in complex production environments.
+  - Proposed and implemented a **Skill + Model dual-evolution** mechanism: automatically distilling, evaluating, and iterating reusable Skills from historical task trajectories, while continuously optimizing model capability from task results and evaluation feedback, achieving co-evolution of the agent's knowledge and execution strategy.
 
 - **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
   Leading the development of **Prometheus**, an AI-powered code agent for long-horizon issue resolution using knowledge graphs and agentic memory, supervised by [**Prof. He Ye**](https://heye.me/).
