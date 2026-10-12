@@ -21,8 +21,6 @@ I am a third-year undergraduate student in Computer Science at [**University Col
 My research interests lie in automated software engineering, agentic systems, continual learning and reinforcement learning. I am currently seeking a PhD position starting in 2027 fall, and I am also open to full-time / new-graduate opportunities in the 2027 fall recruitment cycle.
 My academic journey has also been enriched by collaborations with [**Dr. Shilong Liu**](https://lsl.zone/) at [**Princeton AI Lab**](https://ai.princeton.edu/ai-lab) and [**Prof. Sergey Mechtaev**](https://mechtaev.com/) at [**Peking University**](https://english.pku.edu.cn/).
 
-Beyond academia, I have been actively involved in technology entrepreneurship. I am a co-founder of [**EuniAI**](https://euni.ai/), [**Aimoverse**](https://aimo.network/), and Hangzhou RongzhiruanKe Ltd., where I have led the development of AI-driven products and enterprise systems.
-
 For more details about my background, please see my [**CV**](../assets/pdf/Yue_Pan_Resume.pdf).
 
 # 🔥 News
