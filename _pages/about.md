@@ -18,9 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third-year undergraduate student in Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am a member of the [**SOLAR Group**](https://solar.cs.ucl.ac.uk/) under the supervision of [**Prof. He Ye**](https://heye.me/).
-Now I'm also working with [**Dr. Shilong Liu**](https://lsl.zone/) at [**Princeton AI Lab**](https://ai.princeton.edu/ai-lab) in a multimodal code agent project.
 My research interests lie in automated software engineering, agentic systems, continual learning and reinforcement learning. I am currently seeking a PhD position starting in 2027 fall, and I am also open to full-time / new-graduate opportunities in the 2027 fall recruitment cycle.
-My academic journey has also been enriched by collaborations with [**Prof. Sergey Mechtaev**](https://mechtaev.com/) at [**Peking University**](https://english.pku.edu.cn/).
+My academic journey has also been enriched by collaborations with [**Dr. Shilong Liu**](https://lsl.zone/) at [**Princeton AI Lab**](https://ai.princeton.edu/ai-lab) and [**Prof. Sergey Mechtaev**](https://mechtaev.com/) at [**Peking University**](https://english.pku.edu.cn/).
 
 Beyond academia, I have been actively involved in technology entrepreneurship. I am a co-founder of [**EuniAI**](https://euni.ai/), [**Aimoverse**](https://aimo.network/), and Hangzhou RongzhiruanKe Ltd., where I have led the development of AI-driven products and enterprise systems.
 
