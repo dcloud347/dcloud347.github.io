@@ -105,7 +105,7 @@ Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He
 
 # 💻 Work Experiences
 
-- **2026.06 – Present** · **AI Infra Intern**, ByteDance (TikTok Push AI Infra), Shanghai  
+- **2026.06 – 2026.09** · **AI Infra Intern**, ByteDance (TikTok Push AI Infra), Shanghai  
   Building a self-evolving agent framework and the Guardian On-call Agent to bring LLM and agent capabilities into code maintenance, on-call handling, and automated R&D workflows.
 
 - **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
