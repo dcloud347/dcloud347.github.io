@@ -34,6 +34,23 @@ For more details about my background, please see my [**CV**](../assets/pdf/Yue_P
 <div class='paper-box'><div class='paper-box-image'>
   <div>
     <div class="badge">Preprint</div>
+      <img src='../assets/images/CRJudgeBench.png' alt="CRJudgeBench repository-grounded code review trustworthiness evaluation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[CRJudgeBench: Can AI Detect Plausible but Invalid Code Reviews?](https://arxiv.org/pdf/2609.37216)
+
+**Yue Pan**, Jiawei Li, Ziyuan Zhang, Xiangxin Zhao, He Ye†.
+
+\[ [Paper](https://arxiv.org/abs/2609.37216) \] \[ [Dataset](https://huggingface.co/datasets/dcloud347/CRJudgeBenchmark) \]
+
+  </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+  <div>
+    <div class="badge">Preprint</div>
       <img src='../assets/images/Promethues.png' alt="sym" width="100%">
     </div>
   </div>
