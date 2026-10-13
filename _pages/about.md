@@ -111,6 +111,8 @@ Zhiwei Fei\*, **Yue Pan**\*, Federica Sarro, Jidong Ge, Marc Liu, Vincent Ng, He
 - **2025.03 – Present** · **Research Assistant**, UCL SOLAR Group, London  
   Leading the development of **Prometheus**, an AI-powered code agent for long-horizon issue resolution using knowledge graphs and agentic memory, supervised by [**Prof. He Ye**](https://heye.me/).
 
+- **2025.09 – 2025.12** · **Teaching Assistant — Software Engineering**, University College London (UCL), London, United Kingdom
+
 - **2025.06 – 2025.09** · **Research Assistant**, Peking University, Beijing  
   Conducted research on context compression and efficient summarization for large-scale code agent systems,supervised by [**Prof. Sergey Mechtaev**](https://mechtaev.com/) .
 
